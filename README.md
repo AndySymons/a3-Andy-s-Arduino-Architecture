@@ -1,4 +1,4 @@
-# a3 = AAA = Andys Arduino Architecture
+# a3 = AAA = Andy's Arduino Architecture
 
 Why "a3"? Well "AAA" sounds a bit too much like a taxi company trying to come first in the phone book. "a3" is far more nerdy. 
 
